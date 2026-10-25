@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7aa2f7,50:bb9af7,100:f7768e&text=Suraim%20Ahmad&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=60&descSize=22&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/Suraim189">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Software+Engineering+Undergraduate+%40+NTU;Building+Smart+Desktop+%26+RAG+Applications;C%2B%2B+%7C+C%23+%7C+Python+%7C+SQL;Solving+Problems+on+LeetCode+%F0%9F%94%A5" alt="typing" />
@@ -63,8 +63,8 @@
 
 <br/><br/>
 
-<!-- Row 4: contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suraim189&theme=tokyo-night&hide_border=true&area=true&radius=15&custom_title=Suraim%27s%20Contribution%20Graph" alt="Activity Graph" />
+<!-- Row 4: contribution activity graph (auto-generated) -->
+<img width="720" src="assets/activity-graph.svg" alt="Activity Graph" />
 
 </div>
 
@@ -73,7 +73,7 @@
 # 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suraim189&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" alt="Trophies" />
+  <img src="assets/trophies.svg" alt="Trophies" />
 </div>
 
 ---
@@ -95,7 +95,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Let%27s+build+something+awesome+together+%F0%9F%9A%80" alt="footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f7768e,50:bb9af7,100:7aa2f7&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
 
 </div>
 
