@@ -1,11 +1,6 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="header" />
-
-<a href="https://github.com/Suraim189">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Software+Engineering+Undergraduate+%40+NTU;Building+Smart+Desktop+%26+RAG+Applications;C%2B%2B+%7C+C%23+%7C+Python+%7C+SQL;Solving+Problems+on+LeetCode+%F0%9F%94%A5" alt="typing" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Suraim Ahmad" />
 
 <br/>
 
@@ -18,7 +13,7 @@
 # 💫 About Me
 
 - 🔭 I’m currently working on: **C# Windows Forms apps, SQL databases & AI Agent RAG systems**
-- 👯 I’m looking to collaborate on: **Open-source projects & full-stack Python/C++ development**
+- 👯 I’m looking to collaborate on: **Open-source projects & full-stack C#/C++ development**
 - 🤝 I’m looking for help with: **Advanced system design and optimization**
 - 🌱 I’m currently learning: **Advanced DSA & solving problems on LeetCode**
 - 💬 Ask me about: **C++, C#, Python, SQL, RAG pipelines, and Windows Forms**
@@ -43,37 +38,37 @@
 
 ---
 
+# 🖥️ Terminal
+
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="terminal" />
+</div>
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Row 1: main stats + top languages -->
 <img height="200" src="https://github-readme-stats.shion.dev/api?username=suraim189&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suraim189&theme=tokyonight&hide_border=true&border_radius=15&layout=donut&langs_count=8" alt="Top Languages" />
+<img height="200" src="assets/languages.svg" alt="Most Used Languages" />
 
 <br/><br/>
 
-<!-- Row 2: streak -->
 <img width="720" src="https://streak-stats.demolab.com/?user=suraim189&theme=tokyonight&hide_border=true&border_radius=15&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=bb9af7&dates=565f89" alt="Streak Stats" />
 
 <br/><br/>
 
-<!-- Row 3: LeetCode -->
 <img width="720" src="https://leetcard.jacoblin.cool/X_ENZO?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=15" alt="LeetCode Stats" />
-
-<br/><br/>
-
-<!-- Row 4: contribution activity graph (auto-generated) -->
-<img width="720" src="assets/activity-graph.svg" alt="Activity Graph" />
 
 </div>
 
 ---
 
-# 🏆 Trophies
+# 🏙️ 3D Contribution Skyline
 
 <div align="center">
-  <img src="assets/trophies.svg" alt="Trophies" />
+  <img src="assets/contributions-3d.svg" width="100%" alt="3D contribution skyline" />
 </div>
 
 ---
@@ -90,13 +85,8 @@
 
 ---
 
-<!-- ============ FOOTER ============ -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Let%27s+build+something+awesome+together+%F0%9F%9A%80" alt="footer typing" />
-
-<img src="assets/footer.svg" width="100%" alt="footer" />
-
+  <img src="assets/footer.svg" width="100%" alt="footer" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
